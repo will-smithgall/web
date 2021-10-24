@@ -3,8 +3,9 @@
 ## General
 ---
 Add hyperlink to github -> Navbar?
-General theme / appearence
+General theme / appearence 
 
+Host through Heroku or AWS
 ## Home Page
 ---
 *Ask Ben what he thinks should go here*
