@@ -14,6 +14,9 @@ General theme / appearence
 Add schedule for all planned semesters here  
 Seperate them in different blocks / cards
 
+*Added schedule blocks, can be added as more are figured out*  
+*Try to style it like github..? (color scheme, cards)*  
+
 ## Major Requirements
 ---
 In seperate cards, add all the classed necesary for a computer science major  
