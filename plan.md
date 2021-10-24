@@ -2,7 +2,7 @@
 
 ## General
 ---
-Add hyperlinks to github?  
+Add hyperlink to github -> Navbar?
 General theme / appearence
 
 ## Home Page
