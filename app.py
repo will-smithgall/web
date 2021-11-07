@@ -1,4 +1,4 @@
-import re
+import os
 from flask import Flask, render_template
 
 app = Flask(__name__)
@@ -20,4 +20,4 @@ def major():
     return render_template("major.html")
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=os.getenv("DEBUG")=="true")
